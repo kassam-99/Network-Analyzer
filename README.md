@@ -16,7 +16,7 @@ Contributions, bug reports, and feature requests are welcome! Feel free to fork 
 
 Clone the repository.
     
-    git clone https://github.com/kassam-99/Port-Scanner.git
+    git clone https://github.com/kassam-99/Network-Analyzer.git
 
 
 Install dependencies
@@ -27,6 +27,6 @@ Install dependencies
 ### Usage Examples
 
 
-    cd Port-Scanner
+    cd Network-Analyzer
 
     python Analyzer.py
